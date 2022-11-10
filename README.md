@@ -34,19 +34,19 @@ pip install -r requirements.txt
 python mask_detector_trainer.py --dataset dataset
 ```
 
-- Implementing the COVID-19 face mask detector for images with OpenCV
+- Implementing the COVID-19 nose mask checker for images with OpenCV
 
 ```
 python detect_mask_image.py --image test_images/test_01.jpeg
 ```
 
-- Implementing the COVID-19 face mask detector for video stream with OpenCV
+- Implementing the COVID-19 nose mask checker for video stream with OpenCV
 
 ```
 python detect_mask_video.py
 ```
 
-## Training Evaluation Plot
+## Training Evaluation
 * COVID-19 noee mask checker training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smile:.
 
 ![](plot.png)
