@@ -46,6 +46,11 @@ python detect_mask_image.py --image test_images/test_01.jpeg
 python detect_mask_video.py
 ```
 
+## Training Evaluation Plot
+* COVID-19 noee mask checker training accuracy/loss curves demonstrate high accuracy and little signs of overfitting the data:sweat_smile:.
+
+![](plot.png)
+
 ## Demonstration :movie_camera:
 
 - Mask detection using the COVID-19 nose mask checker:mask:
