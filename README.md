@@ -1,5 +1,5 @@
-<h1 align="center">
-    Nose Mask Checker
+<h1 align="left">
+    Nose Mask Checker :mask:
 </h1>
 
 A COVID-19 nose mask detector built with OpenCV, Keras/TensorFlow, and Deep Learning.
