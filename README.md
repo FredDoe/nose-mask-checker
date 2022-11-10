@@ -48,7 +48,7 @@ python detect_mask_video.py
 
 ## Demonstration :movie_camera:
 
-- Mask detection using the COVID-19 face mask detector:smile:.
+- Mask detection using the COVID-19 nose mask checker:mask:
 
 ![](demo.png)
 
